@@ -3,7 +3,9 @@
 This repo is based on RAI code, including its python bindings. See https://github.com/MarcToussaint/rai for a README of the RAI code. 
 I have added a simulation of two panda arms that can locate the lasers go to them and then use them to draw images on a wall.
 
-![octopus1](https://github.com/ChazzKemal/robotics-course/assets/71472091/249875af-06a7-4231-bc05-9f6b914f77c3)
+https://github.com/ChazzKemal/robotics-course/assets/71472091/6dce2f48-643b-4bc9-a14a-b857f3ea799b
+
+
 
 
 ## Table of Contents
